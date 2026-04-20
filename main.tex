@@ -1,0 +1,104 @@
+\documentclass[12pt,a4paper]{article}
+
+% --- Configura la codificació per evitar errors de caràcters ---
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[catalan]{babel}
+\usepackage{lmodern}
+
+% --- Geometria de la pàgina ---
+\usepackage{geometry}
+\geometry{a4paper, margin=2.5cm}
+
+% --- Millores de text i espaiat ---
+\usepackage{setspace}
+\onehalfspacing 
+\usepackage{parskip}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{graphicx}
+
+% --- Colors personalitzats ---
+\definecolor{primary}{rgb}{0, 0.2, 0.5}
+\definecolor{secondary}{rgb}{0.3, 0.3, 0.3}
+
+% --- Configuració de Capçaleres i Peus de Pàgina ---
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textit{La naturalesa observada amb lupa}}
+\fancyfoot[C]{\small Estudi sobre la depredació i competència entre espècies}
+\fancyfoot[R]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% --- Estil de títols (Color i Font) ---
+\usepackage{sectsty}
+\allsectionsfont{\color{primary}\sffamily}
+
+% Personalització del títol de l'Índex
+\addto\captionscatalan{%
+  \renewcommand{\contentsname}{Índex}%
+}
+
+% --- Configuració d'enllaços (Sempre al final del preàmbul) ---
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=primary,
+    urlcolor=blue,
+    pdftitle={Treball de Recerca}
+}
+
+\begin{document}
+
+% --- PORTADA ---
+\begin{titlepage}
+    \thispagestyle{empty} % No volem capçalera ni peu a la portada
+    \centering
+    \vspace*{2cm}
+    {\Huge \textbf{\color{primary} La naturalesa observada amb lupa} \par}
+    \vspace{0.8cm}
+    {\Large \textit{Estudi sobre la depredació i competència entre espècies} \par}
+    \vspace{1.5cm}
+    \hrule height 2pt
+    \vspace{2cm}
+    
+    % --- ESPAI PER A LA IMATGE ---
+    \begin{center}
+        \vspace{4cm} 
+        \textit{(Espai reservat per a la imatge de portada)}
+    \end{center}
+    
+    \vfill
+    
+    \begin{tabular}{l p{3cm} r}
+    \textbf{Tutora:} & & \textbf{Curs:} 2025-2026 \\
+    Eva Martínez & & \textbf{Àmbit:} Científic
+    \end{tabular}
+    
+    \vspace{2cm}
+    {\large \textbf{Institut Escola de Sant Pol de Mar} \par}
+\end{titlepage}
+
+\pagenumbering{roman}
+\tableofcontents
+\newpage
+
+\pagenumbering{arabic}
+% --- CONTINGUT MODULAR ---
+\input{seccions/introduccio.tex}
+\newpage
+
+\input{seccions/objectius-hipotesis.tex}
+\newpage
+
+\input{seccions/marc-teoric.tex}
+\newpage
+
+\input{seccions/marc-practic.tex}
+\newpage
+
+\input{seccions/bibliografia.tex}
+
+\end{document}

@@ -1,0 +1,52 @@
+\babel@toc {nil}{}\relax 
+\contentsline {section}{\numberline {1}Introducció}{1}{section.1}%
+\contentsline {section}{\numberline {2}Objectius i Hipòtesis}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Preguntes de recerca}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Hipòtesis}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Marc Teòric}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Ecosistema}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Tipus d’ecosistemes}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Relacions intraespecífiques i interespecífiques}{3}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}La depredació}{4}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}La competència}{4}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Comensalisme}{4}{subsubsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.4}Terraris}{5}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Terrari bioactiu}{5}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Manteniment i factors abiòtics en el terrari}{5}{subsubsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.5}Depredador (Dragó lleopard)}{6}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Taxonomia}{6}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Distribució}{6}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Mètodes de defensa i supervivència}{6}{subsubsection.3.5.3}%
+\contentsline {subsubsection}{\numberline {3.5.4}Dieta}{6}{subsubsection.3.5.4}%
+\contentsline {subsubsection}{\numberline {3.5.5}Comportament}{6}{subsubsection.3.5.5}%
+\contentsline {subsubsection}{\numberline {3.5.6}Dimorfisme}{6}{subsubsection.3.5.6}%
+\contentsline {subsubsection}{\numberline {3.5.7}Reproducció}{7}{subsubsection.3.5.7}%
+\contentsline {subsubsection}{\numberline {3.5.8}Especimen juvenil}{7}{subsubsection.3.5.8}%
+\contentsline {subsubsection}{\numberline {3.5.9}Especimen adult}{7}{subsubsection.3.5.9}%
+\contentsline {subsubsection}{\numberline {3.5.10}Malalties}{7}{subsubsection.3.5.10}%
+\contentsline {subsection}{\numberline {3.6}Presa número 1 (\textit {Porcellio laevis})}{7}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}Taxonomia}{7}{subsubsection.3.6.1}%
+\contentsline {subsubsection}{\numberline {3.6.2}Distribució}{7}{subsubsection.3.6.2}%
+\contentsline {subsubsection}{\numberline {3.6.3}Característiques}{7}{subsubsection.3.6.3}%
+\contentsline {subsubsection}{\numberline {3.6.4}Dieta}{7}{subsubsection.3.6.4}%
+\contentsline {subsubsection}{\numberline {3.6.5}Comportament}{7}{subsubsection.3.6.5}%
+\contentsline {subsubsection}{\numberline {3.6.6}Dimorfisme}{7}{subsubsection.3.6.6}%
+\contentsline {subsubsection}{\numberline {3.6.7}Reproducció}{7}{subsubsection.3.6.7}%
+\contentsline {subsubsection}{\numberline {3.6.8}Especiment juvenil}{7}{subsubsection.3.6.8}%
+\contentsline {subsubsection}{\numberline {3.6.9}Especiment adult}{7}{subsubsection.3.6.9}%
+\contentsline {subsection}{\numberline {3.7}Presa número 2 (\textit {Armadillidium vulgare})}{7}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}Taxonomia}{7}{subsubsection.3.7.1}%
+\contentsline {subsubsection}{\numberline {3.7.2}Distribució}{7}{subsubsection.3.7.2}%
+\contentsline {subsubsection}{\numberline {3.7.3}Característiques}{7}{subsubsection.3.7.3}%
+\contentsline {subsubsection}{\numberline {3.7.4}Dieta}{7}{subsubsection.3.7.4}%
+\contentsline {subsubsection}{\numberline {3.7.5}Comportament}{7}{subsubsection.3.7.5}%
+\contentsline {subsubsection}{\numberline {3.7.6}Dimorfisme}{7}{subsubsection.3.7.6}%
+\contentsline {subsubsection}{\numberline {3.7.7}Reproducció}{7}{subsubsection.3.7.7}%
+\contentsline {subsubsection}{\numberline {3.7.8}Especiment juvenil}{7}{subsubsection.3.7.8}%
+\contentsline {subsubsection}{\numberline {3.7.9}Especiment adult}{7}{subsubsection.3.7.9}%
+\contentsline {section}{\numberline {4}Marc Pràctic}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Disseny Experimental}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Materials i Mètodes}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Resultats i Observacions}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Anàlisi de Resultats}{8}{subsection.4.4}%
+\contentsline {section}{Bibliografia}{9}{section*.2}%
