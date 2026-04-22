@@ -17,7 +17,7 @@ Aquesta skill defineix un protocol de treball estrictament controlat per l'usuar
 
 ## Regles d'Estil del Projecte (Específiques)
 
-Aquestes regles s'apliquen al treball "La comunicació a través dels sentits":
+Aquestes regles s'apliquen al treball "La naturalesa observada amb lupa" (Estudi sobre la depredació i competència entre espècies):
 
 1. **Jerarquia de Colors i Títols:**
    - `\chapter`: `MidnightBlue`, Huge, negreta, sense numeració.
@@ -46,4 +46,5 @@ Aquestes regles s'apliquen al treball "La comunicació a través dels sentits":
 1. **Recerca:** Llistar fitxers del projecte i llegir els fitxers de preàmbul (`preamble.tex`, `config.tex`, etc.) i el fitxer principal (`main.tex`).
 2. **Estratègia:** Si la tasca és complexa, presentar un TODO detallat a l'usuari.
 3. **Execució:** Realitzar canvis quirúrgics (`replace`) en lloc de sobreescriure fitxers complets (`write_file`) per minimitzar l'impacte en el codi original.
-4. **Validació:** Confirmar amb l'usuari que el canvi és exactament el que buscava.
+4. **Compilació:** abans de donar per finalitzada una tasca del document, compilaràs el codi en unPDF, i si mostra errors greus de compilació t'asseguraràs d'instalar dependències o buscar per internet la solució a aquests, PREVAL mantenir les estructures, fonts i elements per sobre d'ELIMINAR-LOS, és a dir: no intentis arreglar els errors eliminant elements, paquets o estructures, busca la manera de preservar-los.
+5. **Validació:** Confirmar amb l'usuari que el canvi és exactament el que buscava.
