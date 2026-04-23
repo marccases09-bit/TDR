@@ -1,0 +1,46 @@
+\babel@toc {catalan}{}\relax 
+\contentsline {section}{Introducció}{1}{section*.1}%
+\contentsline {section}{Objectius i Hipòtesis}{2}{section*.2}%
+\contentsline {section}{Marc Teòric}{3}{section*.3}%
+\contentsline {subsection}{Ecosistema}{3}{subsection*.4}%
+\contentsline {subsection}{Tipus d’ecosistemes}{3}{subsection*.5}%
+\contentsline {subsection}{Relacions intraespecífiques i interespecífiques}{3}{subsection*.6}%
+\contentsline {subsubsection}{La depredació}{4}{subsubsection*.7}%
+\contentsline {subsubsection}{La competència}{4}{subsubsection*.8}%
+\contentsline {subsubsection}{Comensalisme}{4}{subsubsection*.9}%
+\contentsline {subsection}{Terraris}{5}{subsection*.10}%
+\contentsline {subsubsection}{Terrari bioactiu}{5}{subsubsection*.11}%
+\contentsline {subsubsection}{Manteniment i factors abiòtics en el terrari}{5}{subsubsection*.12}%
+\contentsline {subsection}{Depredador (Dragó lleopard)}{6}{subsection*.13}%
+\contentsline {subsubsection}{Taxonomia}{6}{subsubsection*.14}%
+\contentsline {subsubsection}{Distribució}{6}{subsubsection*.15}%
+\contentsline {subsubsection}{Mètodes de defensa i supervivència}{6}{subsubsection*.16}%
+\contentsline {subsubsection}{Dieta}{6}{subsubsection*.17}%
+\contentsline {subsubsection}{Comportament}{6}{subsubsection*.18}%
+\contentsline {subsubsection}{Dimorfisme}{7}{subsubsection*.19}%
+\contentsline {subsubsection}{Reproducció}{7}{subsubsection*.20}%
+\contentsline {subsubsection}{Especimen juvenil}{7}{subsubsection*.21}%
+\contentsline {subsubsection}{Especimen adult}{7}{subsubsection*.22}%
+\contentsline {subsubsection}{Malalties}{7}{subsubsection*.23}%
+\contentsline {subsection}{Presa número 1 (\textit {Porcellio laevis})}{7}{subsection*.24}%
+\contentsline {subsubsection}{Taxonomia}{7}{subsubsection*.25}%
+\contentsline {subsubsection}{Distribució}{7}{subsubsection*.26}%
+\contentsline {subsubsection}{Característiques}{7}{subsubsection*.27}%
+\contentsline {subsubsection}{Dieta}{7}{subsubsection*.28}%
+\contentsline {subsubsection}{Comportament}{7}{subsubsection*.29}%
+\contentsline {subsubsection}{Dimorfisme}{7}{subsubsection*.30}%
+\contentsline {subsubsection}{Reproducció}{7}{subsubsection*.31}%
+\contentsline {subsubsection}{Especiment juvenil}{7}{subsubsection*.32}%
+\contentsline {subsubsection}{Especiment adult}{7}{subsubsection*.33}%
+\contentsline {subsection}{Presa número 2 (\textit {Armadillidium vulgare})}{7}{subsection*.34}%
+\contentsline {subsubsection}{Taxonomia}{7}{subsubsection*.35}%
+\contentsline {subsubsection}{Distribució}{7}{subsubsection*.36}%
+\contentsline {subsubsection}{Característiques}{7}{subsubsection*.37}%
+\contentsline {subsubsection}{Dieta}{7}{subsubsection*.38}%
+\contentsline {subsubsection}{Comportament}{7}{subsubsection*.39}%
+\contentsline {subsubsection}{Dimorfisme}{7}{subsubsection*.40}%
+\contentsline {subsubsection}{Reproducció}{7}{subsubsection*.41}%
+\contentsline {subsubsection}{Especiment juvenil}{8}{subsubsection*.42}%
+\contentsline {subsubsection}{Especiment adult}{8}{subsubsection*.43}%
+\contentsline {section}{Marc Pràctic}{9}{section*.44}%
+\contentsline {section}{Bibliografia}{10}{section*.45}%

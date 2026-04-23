@@ -4,48 +4,71 @@
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[catalan]{babel}
-\usepackage{lmodern}
+\usepackage[default]{sourcesanspro}
 
 % --- Geometria de la pàgina ---
 \usepackage{geometry}
-\geometry{a4paper, margin=2.5cm}
+\geometry{a4paper, margin=2.5cm, headheight=15pt}
 
 % --- Millores de text i espaiat ---
 \usepackage{setspace}
 \onehalfspacing 
 \usepackage{parskip}
-\usepackage{xcolor}
+\usepackage[dvipsnames]{xcolor}
 \usepackage{fancyhdr}
 \usepackage{titlesec}
 \usepackage{graphicx}
 
 % --- Colors personalitzats ---
-\definecolor{primary}{rgb}{0, 0.2, 0.5}
-\definecolor{secondary}{rgb}{0.3, 0.3, 0.3}
+\definecolor{MidnightBlue}{named}{MidnightBlue}
+\definecolor{RoyalBlue}{named}{RoyalBlue}
+\definecolor{TealBlue}{named}{TealBlue}
+\definecolor{CadetBlue}{named}{CadetBlue}
 
 % --- Configuració de Capçaleres i Peus de Pàgina ---
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[L]{\textit{La naturalesa observada amb lupa}}
-\fancyfoot[C]{\small Estudi sobre la depredació i competència entre espècies}
-\fancyfoot[R]{\thepage}
+\fancyhead[L]{\small\color{gray} Treball de Recerca - IE Sant Pol de Mar}
+\fancyhead[R]{\small\color{MidnightBlue}\nouppercase{\leftmark}}
+\fancyfoot[C]{\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
 
-% --- Estil de títols (Color i Font) ---
-\usepackage{sectsty}
-\allsectionsfont{\color{primary}\sffamily}
+% --- Estil de títols segons SKILL.md ---
+% \section (com a capítols)
+\titleformat{\section}
+  {\color{MidnightBlue}\Huge\bfseries\sffamily}
+  {}{0pt}{}
+\titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+
+% \subsection (RoyalBlue)
+\titleformat{\subsection}
+  {\color{RoyalBlue}\Large\bfseries\sffamily}
+  {}{0pt}{}
+
+% \subsubsection (TealBlue)
+\titleformat{\subsubsection}
+  {\color{TealBlue}\large\bfseries\sffamily}
+  {}{0pt}{}
+
+% Subsubsubsection o estil per a nivells inferiors (CadetBlue)
+\titleformat{\paragraph}
+  {\color{CadetBlue}\normalsize\bfseries\sffamily}
+  {}{0.5cm}{}
+
+% Treure numeració dels títols globalment
+\setcounter{secnumdepth}{0}
 
 % Personalització del títol de l'Índex
 \addto\captionscatalan{%
   \renewcommand{\contentsname}{Índex}%
 }
 
-% --- Configuració d'enllaços (Sempre al final del preàmbul) ---
-\usepackage{hyperref}
+% --- Configuració d'enllaços (Amb correccions per a numeració duplicada) ---
+\usepackage[plainpages=false, pdfpagelabels]{hyperref}
 \hypersetup{
     colorlinks=true,
-    linkcolor=primary,
+    linkcolor=MidnightBlue,
     urlcolor=blue,
     pdftitle={Treball de Recerca}
 }
@@ -54,17 +77,16 @@
 
 % --- PORTADA ---
 \begin{titlepage}
-    \thispagestyle{empty} % No volem capçalera ni peu a la portada
+    \thispagestyle{empty}
     \centering
     \vspace*{2cm}
-    {\Huge \textbf{\color{primary} La naturalesa observada amb lupa} \par}
+    {\Huge \textbf{\color{MidnightBlue} La naturalesa observada amb lupa} \par}
     \vspace{0.8cm}
     {\Large \textit{Estudi sobre la depredació i competència entre espècies} \par}
     \vspace{1.5cm}
     \hrule height 2pt
     \vspace{2cm}
     
-    % --- ESPAI PER A LA IMATGE ---
     \begin{center}
         \vspace{4cm} 
         \textit{(Espai reservat per a la imatge de portada)}
@@ -86,6 +108,9 @@
 \newpage
 
 \pagenumbering{arabic}
+% Actualitzem la marca de capçalera per a l'article
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+
 % --- CONTINGUT MODULAR ---
 \input{seccions/introduccio.tex}
 \newpage
