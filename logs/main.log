@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.4.23)  23 APR 2026 06:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.4.23)  27 APR 2026 07:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -280,6 +280,13 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 )
 \Gin@req@height=\dimen158
 \Gin@req@width=\dimen159
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count268
+\float@exts=\toks23
+\float@box=\box52
+\@float@everytoks=\toks24
+\@floatcapt=\box53
 ) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
  (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
@@ -305,11 +312,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count268
+\c@section@level=\count269
 )
 \@linkdim=\dimen160
-\Hy@linkcounter=\count269
-\Hy@pagecounter=\count270
+\Hy@linkcounter=\count270
+\Hy@pagecounter=\count271
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -317,7 +324,7 @@ Now handling font encoding PD1 ...
 ) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count271
+\Hy@SavedSpaceFactor=\count272
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -332,7 +339,7 @@ Package hyperref Info: Plain pages OFF on input line 4194.
 Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count272
+\c@Hy@tempcnt=\count273
  (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -344,7 +351,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count273
+\Fld@menulength=\count274
 \Field@Width=\dimen162
 \Fld@charsize=\dimen163
 Package hyperref Info: Hyper figures OFF on input line 6063.
@@ -358,9 +365,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6093.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count274
-\c@Item=\count275
-\c@Hfootnote=\count276
+\Hy@abspage=\count275
+\c@Item=\count276
+\c@Hfootnote=\count277
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
@@ -369,8 +376,8 @@ File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count277
-\c@bookmark@seq@number=\count278
+\Fld@listcount=\count278
+\c@bookmark@seq@number=\count279
  (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -380,48 +387,52 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip61
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 74.
-LaTeX Font Info:    Trying to load font information for T1+SourceSansPro-TLF on input line 76.
+Package hyperref Info: Option `colorlinks' set `true' on input line 75.
+LaTeX Font Info:    Trying to load font information for T1+SourceSansPro-TLF on input line 77.
  (/usr/share/texlive/texmf-dist/tex/latex/sourcesanspro/T1SourceSansPro-TLF.fd
 File: T1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for T1/SourceSansPro-TLF.
 )
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 76.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 77.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 76.
+(Font)              scaled to size 12.0pt on input line 77.
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count279
-\l__pdf_internal_box=\box52
-) (./main.aux)
+\l__color_backend_stack_int=\count280
+\l__pdf_internal_box=\box54
+) (logs/main.aux
+
+LaTeX Warning: Label `fig:etiqueta' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 76.
-LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 76.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 77.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 77.
  (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Info: Redefining \l on input line 76.
-LaTeX Info: Redefining \L on input line 76.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Info: Redefining \l on input line 77.
+LaTeX Info: Redefining \L on input line 77.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -459,74 +470,79 @@ LaTeX Info: Redefining \L on input line 76.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
+\scratchcounter=\count281
 \scratchdimen=\dimen164
-\scratchbox=\box53
-\nofMPsegments=\count281
-\nofMParguments=\count282
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count283
+\scratchbox=\box55
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count284
 \MPscratchDim=\dimen165
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks24
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks26
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 76.
- (./main.out) (./main.out)
+Package hyperref Info: Link coloring ON on input line 77.
+ (logs/main.out) (logs/main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 83.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 84.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 24.88pt on input line 83.
+(Font)              scaled to size 24.88pt on input line 84.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 83.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 84.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 24.88pt on input line 83.
+(Font)              scaled to size 24.88pt on input line 84.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 85.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 86.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 17.28pt on input line 85.
+(Font)              scaled to size 17.28pt on input line 86.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 85.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 86.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 17.28pt on input line 85.
+(Font)              scaled to size 17.28pt on input line 86.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 92.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 93.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 12.0pt on input line 92.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 97.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 97.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 97.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 98.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 98.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 103.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 103.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 103.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 103.
+(Font)              scaled to size 12.0pt on input line 93.
+<imatges/a33a2285afc37b5fc5d2e83a0a9b814e.jpg, id=184, 737.75626pt x 514.92375pt>
+File: imatges/a33a2285afc37b5fc5d2e83a0a9b814e.jpg Graphic file (type jpg)
+<use imatges/a33a2285afc37b5fc5d2e83a0a9b814e.jpg>
+Package pdftex.def Info: imatges/a33a2285afc37b5fc5d2e83a0a9b814e.jpg  used on input line 98.
+(pdftex.def)             Requested size: 364.19667pt x 254.19269pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}] (./main.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 105.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 105.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 105.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 106.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 106.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 38.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 111.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 38.
- [1])
+(Font)              scaled to size 14.4pt on input line 111.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 111.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
+(Font)              scaled to size 14.4pt on input line 111.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 112.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 112.
+ [2 <./imatges/a33a2285afc37b5fc5d2e83a0a9b814e.jpg>] (logs/main.toc [1])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -534,8 +550,13 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.116 \newpage
-               [1] (./seccions/objectius-hipotesis.tex) [2] (./seccions/marc-teoric.tex
+l.124 \newpage
+               [1] (./seccions/objectius-hipotesis.tex)
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.127 \newpage
+               [2] (./seccions/marc-teoric.tex
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/bold/n' on input line 3.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
@@ -553,27 +574,37 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/it' aliased to
 (Font)              `T1/SourceSansPro-TLF/bold/it' on input line 69.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/it' will be
 (Font)              scaled to size 17.28pt on input line 69.
- [7]) [8] (./seccions/marc-practic.tex) [9] (./seccions/bibliografia.tex) [10] (./main.aux)
+ [7]) [8] (./seccions/marc-practic.tex) [9] (./seccions/bibliografia.tex)
+<imatges/cc5d6b051e5ecd3ef08c9393ef9c4440.jpg, id=291, 738.76pt x 738.76pt>
+File: imatges/cc5d6b051e5ecd3ef08c9393ef9c4440.jpg Graphic file (type jpg)
+<use imatges/cc5d6b051e5ecd3ef08c9393ef9c4440.jpg>
+Package pdftex.def Info: imatges/cc5d6b051e5ecd3ef08c9393ef9c4440.jpg  used on input line 139.
+(pdftex.def)             Requested size: 364.19667pt x 364.19371pt.
+ [10 <./imatges/cc5d6b051e5ecd3ef08c9393ef9c4440.jpg>] (logs/main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 248964AFEC6291977C8D2D9845CD4A31;6483.
  ) 
 Here is how much of TeX's memory you used:
- 12107 strings out of 475526
- 193496 string characters out of 5776529
+ 12196 strings out of 475526
+ 195395 string characters out of 5776529
  1937975 words of memory out of 5000000
- 33902 multiletter control sequences out of 15000+600000
+ 33984 multiletter control sequences out of 15000+600000
  673732 words of font info for 69 fonts, out of 8000000 for 9000
  376 hyphenation exceptions out of 8191
  69i,13n,79p,1209b,620s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-BoldIt.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
-Output written on main.pdf (13 pages, 242111 bytes).
+Output written on logs/main.pdf (14 pages, 353863 bytes).
 PDF statistics:
- 329 PDF objects out of 1000 (max. 8388607)
- 301 compressed objects within 4 object streams
- 58 named destinations out of 1000 (max. 500000)
- 361 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 336 PDF objects out of 1000 (max. 8388607)
+ 305 compressed objects within 4 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 371 words of extra memory for PDF output out of 10000 (max. 10000000)
 

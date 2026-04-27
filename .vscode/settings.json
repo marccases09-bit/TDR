@@ -31,5 +31,16 @@
     "pasteImage.path": "${projectRoot}/imatges",
     "pasteImage.prefix": "img_",
     "pasteImage.forceUserConfig": true,
-    "pasteImage.insertPattern": "\\begin{figure}[htbp]\n    \\centering\n    \\includegraphics[width=0.8\\textwidth]{imatges/${imageFileName}}\n    \\caption{Descripció de la imatge}\n    \\label{fig:${imageFileNameWithoutExt}}\n\\end{figure}"
+    "pasteImage.insertPattern": "\\begin{figure}[htbp]\n    \\centering\n    \\includegraphics[width=0.8\\textwidth]{imatges/${imageFileName}}\n    \\caption{Descripció de la imatge}\n    \\label{fig:${imageFileNameWithoutExt}}\n\\end{figure}",
+    "editor.tabCompletion": "on",
+    "editor.snippetSuggestions": "top",
+    "[latex]": {
+        "editor.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "recentlyUsed",
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": true
+        }
+    }
 }

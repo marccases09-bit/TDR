@@ -1,0 +1,14 @@
+{
+	"Inserir Figura": {
+		"prefix": "figure",
+		"body": [
+			"\\begin{figure}[H]",
+			"    \\centering",
+			"    \\includegraphics[width=${1:0.8}\\textwidth]{${2:imatges/}}",
+			"    \\caption{${3:Descripció de la figura}}",
+			"    \\label{fig:${4:etiqueta}}",
+			"\\end{figure}"
+		],
+		"description": "Insereix un bloc de figura amb [H] i label per a numeració automàtica"
+	}
+}
